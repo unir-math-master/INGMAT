@@ -13,7 +13,7 @@
 		
 ***Metodos Avanzados de Programacion Cientifica y Computacion
 	Grupo No. 9
-		Parra Arredondo, Carlos Alberto	carlosalberto.parraAC7@comunidadunir.net
+		Parra Arredondo, Carlos Alberto		carlosalberto.parraAC7@comunidadunir.net
 		Agudelo Torres, Diego Armando		diegoarmando.agudelo328@comunidadunir.net
 		Libreros Londoño, Giancarlo		giancarlo.libreros230@comunidadunir.net
 		Balsells Orellana, Jorge Augusto	jorgeaugusto.balsells631@comunidadunir.net
