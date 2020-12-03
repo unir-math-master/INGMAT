@@ -5,8 +5,8 @@
 ***Geometria Diferencial Aplicada
 	Grupo No. 6
 		Álvarez Calderón, Álvaro Antonio	alvaroantonio.alvarez076@comunidadunir.net
-		Perla Álvarez, Josué Aristides	josuearistides.perla054@comunidadunir.net
-		Luna Rodríguez, Daniel Antonio	danielantonio.luna061@comunidadunir.net
+		Perla Álvarez, Josué Aristides		josuearistides.perla054@comunidadunir.net
+		Luna Rodríguez, Daniel Antonio		danielantonio.luna061@comunidadunir.net
 		Balsells Orellana, Jorge Augusto	jorgeaugusto.balsells631@comunidadunir.net
 		Díaz Saborio, Erick Wilfredo		erickwilfredo.diaz700@comunidadunir.net
 		
