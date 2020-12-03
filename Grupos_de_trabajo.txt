@@ -1,0 +1,27 @@
+***Procesamiento de Señales, Sonido e Imagenes Digitales
+	Grupo No. 4
+***Modelado y Simulacion Numerica
+	Grupo No. 5
+***Geometria Diferencial Aplicada
+	Grupo No. 6
+		Álvarez Calderón, Álvaro Antonio	alvaroantonio.alvarez076@comunidadunir.net
+		Perla Álvarez, Josué Aristides	josuearistides.perla054@comunidadunir.net
+		Luna Rodríguez, Daniel Antonio	danielantonio.luna061@comunidadunir.net
+		Balsells Orellana, Jorge Augusto	jorgeaugusto.balsells631@comunidadunir.net
+		Díaz Saborio, Erick Wilfredo		erickwilfredo.diaz700@comunidadunir.net
+		
+		
+***Metodos Avanzados de Programacion Cientifica y Computacion
+	Grupo No. 9
+		Parra Arredondo, Carlos Alberto	carlosalberto.parraAC7@comunidadunir.net
+		Agudelo Torres, Diego Armando		diegoarmando.agudelo328@comunidadunir.net
+		Libreros Londoño, Giancarlo		giancarlo.libreros230@comunidadunir.net
+		Balsells Orellana, Jorge Augusto	jorgeaugusto.balsells631@comunidadunir.net
+		Díaz Saborio, Erick Wilfredo		erickwilfredo.diaz700@comunidadunir.net
+		
+***Metodos Numericos Avanzados en Ingenieria
+	Grupo No. 11
+		Fierro González, Fernando		fernando.fierro791@comunidadunir.net
+		Rojas Carrasco, Patricio Alejandro	patricioalejand.rojas198@comunidadunir.net
+		Balsells Orellana, Jorge Augusto	jorgeaugusto.balsells631@comunidadunir.net
+		Díaz Saborio, Erick Wilfredo		erickwilfredo.diaz700@comunidadunir.net
