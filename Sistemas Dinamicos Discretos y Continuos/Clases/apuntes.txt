@@ -1,0 +1,71 @@
+***** Tema 01 ***** Introduccion a los sistemas dinamicos
+***** Tema 02 ***** SDC: Sistemas lineales de orden uno
+***** Tema 03 ***** Sistemas lineales de orden superior
+***** Tema 04 ***** Sistemas no lineales
+***** Tema 05 ***** Practica SDC
+***** Tema 06 ***** SDD: Introduccion a los sistemas dinamicos discretos
+	se modeliza a traves de ecuaciones en diferencias, el tiempo es discretizado.
+	
+	Los sistemas dinamicos pueden estar representados por diferentes tipos de funciones:
+		Sistemas reales
+		Sistemas complejos
+		Sistemas basados en metodos iterativos(Reales y complejos)	
+
+	Dinamica de sistemas discretos
+		Conocer el comportamiento de los puntos a medida que se va iterando
+		Donde van los puntos?
+		Que hacen cuando llegan?
+	
+		Orbita: La orbita es el camino que siguen los puntos. El primer punto X0 se denomina semilla y el resto de puntos se calculan a partir del anterior
+	
+		Punto fijo: Los puntos fijos se clasifican dependiendo de su comportamiento asintotico en:
+			Atractor
+			Repulsor
+			Neutro
+		Punto periodico: repetitivo cada n iteraciones
+		Se utilizan diagramas de iteracion grafica o diagrama de ballhorst/Verhulzt
+
+***** Tema 07 ***** Sistemas reales
+	Diagramas de bifurcacion
+	Dinamica real 1D
+		La familia logistica
+		La familia cuadratica
+	Dinamica real 2D
+		Atractores de Henon
+		
+	Familia de sistemas dinamicos:
+		Puntos de bifurcacion
+		Diagramas de bifurcacion
+
+***** Tema 08 ***** SDD: Sistemas complejos
+	Clasificacion de puntos
+	Plano dinamico
+	Plano de parametros
+	
+	Punto K periodico
+	Punto critico
+	Cuenca de atraccion
+		Relacionado a las cuencas de atraccion hay 2 conceptos:
+			Conjuntos de Fatou
+			Conjuntos de Julia
+	Dinamica real: Planos de bifurcacion
+	Dinamica compleja: Planos de parametros
+	Conjunto de Mandelbrot
+	
+***** Tema 09 ***** SDD: Sistemas iterativos 1
+	Métodos iterativos
+	Sistemas basados en métodos iterativos 
+	Dinámica
+		Clasificación de puntos
+		Velocidad del método
+		Conjugación topológica
+		Ejemplos
+			Newton
+			Halley
+			Chebyshev
+			
+***** Tema 10 ***** SDD: Sistemas iterativos 2
+***** Tema 11 ***** Practica SDD 1
+***** Tema 12 ***** Practica SDD 2
+***** Tema 13 ***** Introduccion al caos
+***** Tema 14 ***** Dinamica simbolica
