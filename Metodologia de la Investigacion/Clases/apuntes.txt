@@ -1,0 +1,54 @@
+Tema 1.
+	Tipos de investigación:
+		Exploratoria Vs Confirmatoria
+		Orientada a un problema Vs Genérica
+		Colaborativa Vs Individual
+		Conceptual Vs Empírica
+		Etc.
+		
+	Pluralidad de enfoques y metodologías:
+		Cuantitativa
+		Cualitativa
+		Mixta
+		
+	Proceso de investigación:
+		- Seleccionar el Problema
+		- Planificar la investigación
+		- Desarrollar y ejecutar la investigación
+		- Difundir los resultados de la investigación
+		
+		Acciones del investigador:
+			- Buscar información relacionada
+			- Calendarizar tareas y elaborar propuestas
+			- Desarrollar o realizar experimento/ recoger y analizar resultados
+			- Escribir Artículos
+			
+		Producto Resultado:
+			- Estado del arte
+			- Propuesta del proyecto o trabajo de investigación
+			- Desarrollo y/o datos resultados
+			- Publicaciones
+	
+	Metodo científico:
+		Reproducibilidad.
+		Falsabilidad.
+		
+	Metodología y diseño de la investigación:
+		Metodología Cuantitativa
+			Metodo experimental
+			Metodo cuasi experimental
+			Metodo no experimental
+		Metodologia Cualitativa
+		
+	Estado del arte.
+	
+	
+	
+	
+	Abstract(partes):
+		contexto
+		problema
+		solucion
+		detalles
+		resultados
+	AIMRaD: Abstract, introduccion, metodos y materiales, resultados y discusion
