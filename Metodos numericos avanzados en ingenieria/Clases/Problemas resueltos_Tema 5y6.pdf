@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-T568ZC6');
+        </script>
+        <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Iniciar sesi&#243;n</title>
+    
+    <link href="/Content/cookie-police.css?v=27112019" rel="stylesheet">
+    <link href="/bundles/css/layout-front?v=hUACNi1JpQkKoMBXff0C-qwOvd__oH1C4Q081Qq1i9Q1" rel="stylesheet"/>
+
+    
+</head>
+<body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T568ZC6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    <div class="container" id="container">
+        <div class="row" id="header">
+    <div class="col container-logo text-left">
+        <a>
+            <img id="logo-unir" src="data:image/png;base64,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" class="image-responsive" alt="UNIR" title="UNIR" />
+        </a>
+    </div>
+</div>
+<div class="row" id="content">
+    <div class="col" id="cabecera">
+        <div class="row contenedor">
+            <div class="col-sm-12 col-md-7 col-lg-8">
+                <h3 class="text-left">
+                    <span class="lb-title">Acceso a la Plataforma</span>
+                </h3>
+            </div>
+            <div class="d-none d-md-block col">
+                <div class="row" id="conten-ayuda">
+                    <div class="col-sm-2">
+                        <img src="/images/telefono.jpg" class="" id="ayuda-logo" />
+                    </div>
+                    <div class="col-sm-9">
+                        <div class="row">
+                            <div class="col-sm-12" id="content-telefono">
+                                <p class="text-ayuda text-right">&#191;Necesitas ayuda?</p>
+                                <p class="text-telf text-right">+34 941 610 025</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="row">
+            
+<div class="col" id="page-login-principal">
+    <div class="box-form-login">
+        <form id="frm-login" class="col" method="post" data-toggle="validator" role="form">
+            <input name="Guid" type="hidden" value="09b5d63b-28a4-448b-8ba1-2e37366b7d0c" />
+            <input id="CanForgetUserType" name="CanForgetUserType" type="hidden" value="False" />
+            <input id="CanCreateAccount" name="CanCreateAccount" type="hidden" value="False" />
+
+            <div class="form-group text-center">
+                <h4>Introduzca sus credenciales</h4>
+            </div>
+            <br />
+            <div class="form-group offset-1 col-10">
+                <input class="form-control" id="Username" name="Username" placeholder="Usuario o Correo electrónico" required="" type="text" value="" />
+                
+            </div>
+            <div class="form-group offset-1 col-10">
+                <input name="Password" type="password" class="form-control" placeholder="Contrase&#241;a" required="" />
+                
+            </div>
+            <div class="form-group offset-1 col-10 checkbox mb-1">
+                <label>
+                    <input id="RememberMe" name="RememberMe" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+                    Mantener la sesi&#243;n iniciada
+                </label>
+            </div>
+            <div class="form-group offset-1 col-10">
+                <a href="/forgot?returnUrl=%2Fauthorize%3Fclient_id%3Dsakai%26redirect_uri%3Dhttps%253A%252F%252Fcampusvirtual.unir.net%252Foauth-tool%252Fcrosscutting%252Fcallback%26response_type%3Dcode%26state%3D800e5b392267436ebae0bfb513c6b9a0">&#191;Ha olvidado su contrase&#241;a?</a>
+            </div>
+            <div class="form-group offset-1 col-10 text-right submit">
+                <input id="btn-acceder" class="btn btn-auth pull-right" type="submit" value="Acceder">
+            </div>
+        </form>
+    </div>
+</div>
+        </div>
+        <div class="row" id="footer">
+    <div class="col">
+        <div class="row">
+            <div class="col franja"></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <p class="links-politicas">
+                        <a onclick="window.open(this.href, 'avisolegal', 'directories=no,toolbar=no,location=no,menubar=no,resizable=no,width=500,height=560,top=10,left=10');return false;" href="https://www.unir.net/aviso-legal/" id="aviso-legal" data-toggle="modal" data-target="#avisoLegal">Aviso legal</a>
+                                            <span> | </span><a onclick="window.open(this.href, 'politicaprivacidad', 'directories=no,toolbar=no,location=no,menubar=no,resizable=no,width=500,height=560,top=10,left=10');return false;" href="https://www.unir.net/proteccion-datos/" id="politica-privacidad" data-toggle="modal" data-target="#politicaprivacidad">Pol&#237;tica de Privacidad</a>
+                                            <span> | </span><a onclick="window.open(this.href, 'politicacookies', 'directories=no,toolbar=no,location=no,menubar=no,resizable=no,width=500,height=560,top=10,left=10');return false;" href="https://www.unir.net/politica-de-cookies" id="politica-cookies" data-toggle="modal" data-target="#politicaprivacidad">Pol&#237;tica de Cookies</a>
+                </p>
+                <p class="direccion-telefono">
+                    <span id="text-faldon">Avda. de La Paz, 137. 26006 Logro&#241;o (La Rioja) | Tel&#233;fono: +34 941 281 819 | Fax: +34 902 87 70 37</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+        <div id="consent_blackbar" class="navbar-fixed-bottom"></div>
+        <script async="async" src="//consent.trustarc.com/notice?domain=unirtest2.net&c=teconsent&gtm=1&js=nj&noticeType=bb&language=es" crossorigin></script>
+    <script type="text/javascript" src="/Scripts/external/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/Scripts/external/popper.min.js"></script>
+    <script type="text/javascript" src="/Scripts/external/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    var siteUrl = '/';
+
+    function showMessage(text, autoClose, fnClose) {
+        var content = $('<div></div>').appendTo('body');
+        content.append(
+            '<div class="modal modal-show-message" tabindex="-1" role="dialog">' +
+            '<div class="modal-dialog" role="document">' +
+            '<div class="modal-content">' +
+            '<div class="modal-body modal-message-body">' +
+            '</div>' +
+            '</div>' +
+            '</div>' +
+            '</div>');
+        var body = $('.modal-message-body', content);
+        body.append('<h5 class="text-center text-info center-block">' + text + '</h5>');
+
+        $('.modal-show-message', content).on('hidden.bs.modal',
+            function(e) {
+                content.remove();
+                if (fnClose) {
+                    fnClose();
+                }
+            });
+
+        $('.modal-show-message', content)
+            .modal('show');
+
+        if (autoClose && autoClose == true) {
+            setTimeout(function() {
+                    $('.modal-show-message', content).modal('hide');
+                },
+                3000);
+        }
+    }
+
+    (function() {
+        $('#consent_blackbar').hide();
+        setTimeout(function() {
+                if ($('#consent_blackbar *').length > 0) {
+                    $('#consent_blackbar').show();
+                }
+            },
+            3000);
+    })();
+    </script>
+    
+    <script src='https://www.google.com/recaptcha/api.js?hl=es&onload=CaptchaCallback&render=explicit' async defer></script>
+
+    <script>
+        var CaptchaCallback = function() {
+            $('.g-recaptcha').each(function(index, el) {
+                grecaptcha.render(el,
+                    {
+                        'sitekey': '6LcVoLIUAAAAAO5R8ge7sLIjo3PElzgJWdn42fTK',
+                        'expired-callback': expCallback,
+                        'error-callback': expCallbackError
+                    });
+            });
+        };
+        var expCallback = function() {
+            grecaptcha.reset();
+        };
+        var expCallbackError = function() {
+            $('#box-error-captcha').text('Error inesperado: favor de revisar su conexión a internet');
+        };
+    </script>
+
+</body>
+</html>
