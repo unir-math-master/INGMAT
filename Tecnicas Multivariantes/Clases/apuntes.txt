@@ -1,0 +1,114 @@
+*****Tema 1: Variables aleatorias y muestreo
+	Variables:
+		Discretas
+		Continuas
+	Funciones
+		Funcion de probabilidad
+		Funcion de distribucion
+	Muestreo
+		Muestreo estratificado
+		Muestreo por conglomerados
+		Muestreo aleatorio simple
+		Otros muestreos
+	Inferencia Estadistica
+	
+*****Tema 2: Estadistica robusta
+	Estadistica clasica Vs. Estadistica robusta:
+	Supuestos:
+		Normalidad
+		Homocedasticidad
+		Independencia de los datos
+		Tamaño de la muestra
+		
+	Outliers:
+		Obviados o no se cumplen supuestos, esto es perdida de fiabilidad
+		
+	Metodos parametricos:
+		Estimadores:
+			Localizacion: Media
+			Dispersion: desviacion tipica
+			No deberian usarse cuando:
+				No se cumplen los supuestos del modelo
+				Se sospecha de la existencia de outliers
+				La muestra no procede de una sola poblacion
+	Supuestos mas relevantes:
+		Kolmogorov-Smirnov (n¿5000)
+		Shapiro-Wilk (n¡5000)
+		Tecnicas de visualizacion -> outliers, errores
+	Homocedasticidad:
+		La varianza de los errores es constante a lo largo del tiempo
+		Heterocedasticidad: Valores atipicos o con demasiado peso
+		Pruebas:
+			Visualizacion grafica: dispersion de los residuos
+			Breusch-Pagan
+	Teorema central del limite(TCL)
+	Metodos no parametricos:
+		Utiles cuando algunos de los supuestos anteriores no se cumplen
+		Limitaciones:
+			Menos potentes
+			Requieren modificacion de hipotesis
+
+
+	Estadistica robusta de localizacion:
+		Mediana
+		Media recortada
+		Media winsorizada
+		Trimedia
+		
+		Observaciones:
+			En todos los casos perdemos eficiencia
+			Mas robuscos cuando existen valores anomalos
+			Podemos comprobar si hay outliers usando estadisticos clasicos y robustos, y comparar
+			Robustos y eficientes: M-estimadores(Huber) - software
+			
+	Estadistica robusta de dispersion:
+		Desviacion absoluta mediana(MAD)
+		Rango intercuartilico
+		M-estimador de un paso
+			
+
+*****Tema 3: Introduccion al aprendizaje automatico
+
+
+
+*****Tema 4: Tecnicas de regresion
+	Objetivos:
+		Tecnicas de regresion
+		Regresion simple(minimos cuadrados)
+		Estimacion de parametros, minimización de errores
+		Atribución
+		Predicción
+	Utilidad
+		Predicción de nuevos datos
+		Creación de modelos
+		Evaluación de la significatividad de las variables de predicción
+		Base de técnicas de la estadística clásica
+		
+	Supuestos a comprobar en los modelos de regresión simple:
+		El modelo es lineal
+		Normalidad y homocedasticidad(Los errores se distribuyen como N(0,epsilon)), con epsilon constante
+		Los errores son variables aleatorias independientes
+		
+
+*****Tema 5: Tecnicas de regresion avanzadas 1
+	Objetivos:
+		Regresion lineal multiple
+		Descomposicion en suma de cuadrados
+		Seleccion de variables
+		Extensiones de los modelos lineales
+	Utilidad:
+		Conceptos asociados a la regresion lineal multiple
+		Describir la regresion lineal general
+		Metodologia para seleccionar las variables predictoras
+		Modelos lineales generalizados
+		Modelos aditivos generalizados
+
+*****Tema 6: Tecnicas de regresion avanzadas 2
+
+*****Tema 7: Tecnicas de clasificacion
+
+*****Tema 8:Arboles de desicion y metodos de ensamble
+
+*****Tema 9: Reduccion de la dimension y clustering
+
+*****Tema 10:Visualizacion de los datos
