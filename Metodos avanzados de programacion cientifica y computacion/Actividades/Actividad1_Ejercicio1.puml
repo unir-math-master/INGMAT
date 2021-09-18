@@ -1,0 +1,24 @@
+@startuml
+
+abstract class Producto{
+    +id : int
+    +nombre : String
+}
+
+class ProductoFisico{
+    +peso : float
+    +alto : float
+    +ancho : float
+    +largo : float
+    +coste_transporte : float
+
+}
+
+class ProductoVirtual{
+    +numero_licencia: String
+
+}
+
+Producto <|-- ProductoFisico
+Producto <|-- ProductoVirtual
+@enduml

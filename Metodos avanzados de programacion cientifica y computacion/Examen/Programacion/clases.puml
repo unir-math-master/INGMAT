@@ -1,0 +1,73 @@
+@startuml
+
+class cliente{
+    + nombre: String 
+    + apellido: String 
+    + DNI: String 
+
+    cliente_nuevo()
+    busqueda_cliente()
+}
+
+class empleado{
+    + nombres: String
+    + apellidos: String
+    + fecha_nacimiento: String
+    + fecha_inicio: String
+
+    agregar()
+    eliminar()
+}
+
+class gabinete{
+    + nombre: String
+    + direccion: String
+
+    agregar()
+    eliminar()
+}
+
+class expediente{
+    + fecha_inicio:String 
+    + estado: String 
+    + juzgado: String
+    + telefono_juzgado: String
+}
+
+class personal_legal{
+    tipo_personal_legal: <Juez, Secretario>
+    + tipo: tipo_personal_legal
+    agregar()
+    eliminar()
+}
+
+class derecho_civil{
+    agregar()
+    eliminar()
+}
+
+class derecho_laboral{
+    agregar()
+    eliminar()
+}
+
+class derecho_inmobiliario{
+    agregar()
+    eliminar()
+}
+
+gabinete "1" o-- "1..*" expediente
+
+expediente <|-- derecho_inmobiliario
+expediente <|-- derecho_laboral
+expediente <|-- derecho_civil
+expediente "*" *-- "*" personal_legal
+
+derecho_civil "0..*" o-- "1..*" cliente
+derecho_inmobiliario "0..*" o-- "1..*" cliente
+derecho_laboral "0..*" o-- "1..*" cliente
+
+empleado "1..*" --* "*" derecho_laboral
+empleado "1..*" --* "*" derecho_civil
+empleado "1..*" --* "*" derecho_inmobiliario
+@enduml
